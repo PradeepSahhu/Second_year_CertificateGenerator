@@ -1,0 +1,7 @@
+# to run the .jar in terminal :
+
+// java -jar First_Jar.jar
+
+# To convert the .class (Byte code) into .jar file
+
+jar cfm First_Jar.jar MANIFEST.MF HomePage.class Main/AllSubject.class Main/Certificate.class Subjects/DSASUBJECT.class Subjects/GPs.class Subjects/MATHEMATICS.class Subjects/SingleSubject.class Subjects/SOFT_SKILLS.class Subjects/SubJava.class Subjects/UHV.class

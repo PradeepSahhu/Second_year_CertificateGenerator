@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: HomePage
+Class-Path: HomePage.class Main/AllSubject.class Main/Certificate.class Subjects/DSASUBJECT.class Subjects/GPs.class Subjects/MATHEMATICS.class Subjects/SingleSubject.class Subjects/SOFT_SKILLS.class Subjects/SubJava.class Subjects/UHV.class
